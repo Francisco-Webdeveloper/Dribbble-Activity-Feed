@@ -4,6 +4,7 @@
 
 /* Components */
 @import url("components/navbar.css");
+@import url("components/avatar.css");
 
 body {
   margin: 0;
